@@ -1,6 +1,6 @@
-Blazor Quickgrid for Comp 4870.
+Blazor Quickgrid for Comp 4870 Created March 1st 2023
 
-Enhancements to the Blazor Demo:
+Enhancements to the Blazor-WASM Demo:
 
 1: Changed grid display to QuickGrid, which allows for more customizability -> For example, added resizability to columns
 
