@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\rzhan\\Documents\\School\\BCIT\\Term_4\\Comp4870\\BlazorQuickGrid\\SchoolAPI\\wwwroot\\students.csv",
+      "PackagePath": "staticwebassets\\students.csv"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.SchoolAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.SchoolAPI.props",
+      "PackagePath": "build\\SchoolAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.SchoolAPI.props",
+      "PackagePath": "buildMultiTargeting\\SchoolAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.SchoolAPI.props",
+      "PackagePath": "buildTransitive\\SchoolAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

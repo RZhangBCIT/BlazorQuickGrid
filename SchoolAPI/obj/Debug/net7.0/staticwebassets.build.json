@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "nE9Bjw4k3cI66Eq6Oq8Gv9IP/mANHapcAyBTxgVA4Qw=",
+  "Source": "SchoolAPI",
+  "BasePath": "_content/SchoolAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SchoolAPI\\wwwroot",
+      "Source": "SchoolAPI",
+      "ContentRoot": "C:\\Users\\rzhan\\Documents\\School\\BCIT\\Term_4\\Comp4870\\BlazorQuickGrid\\SchoolAPI\\wwwroot\\",
+      "BasePath": "_content/SchoolAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\rzhan\\Documents\\School\\BCIT\\Term_4\\Comp4870\\BlazorQuickGrid\\SchoolAPI\\wwwroot\\students.csv",
+      "SourceId": "SchoolAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rzhan\\Documents\\School\\BCIT\\Term_4\\Comp4870\\BlazorQuickGrid\\SchoolAPI\\wwwroot\\",
+      "BasePath": "_content/SchoolAPI",
+      "RelativePath": "students.csv",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\students.csv"
+    }
+  ]
+}

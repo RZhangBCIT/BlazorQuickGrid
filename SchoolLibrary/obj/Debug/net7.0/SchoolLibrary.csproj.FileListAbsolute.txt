@@ -1,0 +1,12 @@
+C:\Users\rzhan\Documents\School\BCIT\Term_4\Comp4870\BlazorQuickGrid\SchoolLibrary\bin\Debug\net7.0\SchoolLibrary.deps.json
+C:\Users\rzhan\Documents\School\BCIT\Term_4\Comp4870\BlazorQuickGrid\SchoolLibrary\bin\Debug\net7.0\SchoolLibrary.dll
+C:\Users\rzhan\Documents\School\BCIT\Term_4\Comp4870\BlazorQuickGrid\SchoolLibrary\bin\Debug\net7.0\SchoolLibrary.pdb
+C:\Users\rzhan\Documents\School\BCIT\Term_4\Comp4870\BlazorQuickGrid\SchoolLibrary\obj\Debug\net7.0\SchoolLibrary.csproj.AssemblyReference.cache
+C:\Users\rzhan\Documents\School\BCIT\Term_4\Comp4870\BlazorQuickGrid\SchoolLibrary\obj\Debug\net7.0\SchoolLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rzhan\Documents\School\BCIT\Term_4\Comp4870\BlazorQuickGrid\SchoolLibrary\obj\Debug\net7.0\SchoolLibrary.AssemblyInfoInputs.cache
+C:\Users\rzhan\Documents\School\BCIT\Term_4\Comp4870\BlazorQuickGrid\SchoolLibrary\obj\Debug\net7.0\SchoolLibrary.AssemblyInfo.cs
+C:\Users\rzhan\Documents\School\BCIT\Term_4\Comp4870\BlazorQuickGrid\SchoolLibrary\obj\Debug\net7.0\SchoolLibrary.csproj.CoreCompileInputs.cache
+C:\Users\rzhan\Documents\School\BCIT\Term_4\Comp4870\BlazorQuickGrid\SchoolLibrary\obj\Debug\net7.0\SchoolLibrary.dll
+C:\Users\rzhan\Documents\School\BCIT\Term_4\Comp4870\BlazorQuickGrid\SchoolLibrary\obj\Debug\net7.0\refint\SchoolLibrary.dll
+C:\Users\rzhan\Documents\School\BCIT\Term_4\Comp4870\BlazorQuickGrid\SchoolLibrary\obj\Debug\net7.0\SchoolLibrary.pdb
+C:\Users\rzhan\Documents\School\BCIT\Term_4\Comp4870\BlazorQuickGrid\SchoolLibrary\obj\Debug\net7.0\ref\SchoolLibrary.dll
